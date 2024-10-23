@@ -1,0 +1,5 @@
+---
+type:
+  - main-page
+---
+[[Anglais]]

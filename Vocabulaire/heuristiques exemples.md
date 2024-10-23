@@ -1,0 +1,8 @@
+- **Heuristique de disponibilité** : ==Lorsque les gens estiment la probabilité d'un événement en se basant sur la facilité avec laquelle des exemples similaires viennent à l'esprit.== Par exemple, si une personne entend beaucoup parler d'accidents d'avion dans les médias, elle pourrait surestimer la probabilité d'un accident d'avion.
+- **Heuristique de représentativité** : ==Les gens jugent la probabilité qu'une personne ou une situation appartienne à une certaine catégorie en se basant sur sa ressemblance avec un prototype mental.== Par exemple, si une personne rencontre quelqu'un de très organisé et méthodique, elle pourrait supposer que cette personne est comptable, car cela correspond au stéréotype d'un comptable, même si les probabilités réelles peuvent être différentes.
+- **Heuristique de l'ancrage** : ==Lorsqu'une personne s'appuie fortement sur la première information reçue (l'ancre) pour prendre une décision, même si cette information est insuffisante ou biaisée.== Par exemple, si un acheteur voit d'abord un prix élevé pour un produit, toute réduction ultérieure sera perçue comme une bonne affaire, même si le prix réduit reste élevé.
+- **Heuristique de satisfaction ("satisficing")** : ==Plutôt que de chercher la solution optimale, on se contente d'une solution "assez bonne".== Par exemple, lors de l'achat d'une maison, une personne peut choisir la première maison qui répond à ses critères de base, même si elle n'est pas parfaite, au lieu de chercher longtemps pour trouver la maison idéale.
+
+  
+
+Cette approche est souvent utilisée dans des situations où les ressources, le temps ou l'information sont limités, et où une solution rapide est préférable à une solution parfaite mais tardive ou coûteuse.
