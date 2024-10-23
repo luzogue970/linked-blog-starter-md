@@ -38,7 +38,7 @@ Améliorer ses habitudes :: 4/1/5/4/4
 - Mindset objectifs : Cf. [[Atomic habits]] :: 4
 - Mindset moyens : _l’Homme qui aime marcher ira toujours plus loin que celui qui aime la destination._ _:: 1_
 - ⇒ ==Mindset identité== : Quel type de personne pourrait obtenir le résultat que je souhaite atteindre = se concentrer sur l’identité. Cf. exemple fumeur :: 3
-    - [[Mark Manson]]
+    - [[kaizen/dev perso/Mark Manson/Mark Manson|Mark Manson]]
 
 ### L’identité :: 3/2/2/2
 
