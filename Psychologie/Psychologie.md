@@ -10,19 +10,7 @@ type:
 
   
 
-**Table des matières**
 
-Fonction cognitive inférieur / supérieure
-
-Psychologie positive
-
-Psychologie cognitive
-
-Psychologie sociale
-
-Psychologie comportementale
-
-Apprendre
 
 ## Fonction cognitive inférieur / supérieure
 
