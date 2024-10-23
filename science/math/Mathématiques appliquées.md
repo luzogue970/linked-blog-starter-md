@@ -1,0 +1,5 @@
+- Analyse numérique
+- Optimisation
+- Théorie du contrôle
+- Mathématiques financières
+- Mathématiques industrielles
