@@ -1,3 +1,0 @@
-- Systèmes dynamiques
-- Théorie du chaos
-- Fractales

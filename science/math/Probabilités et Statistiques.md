@@ -1,4 +1,0 @@
-- Théorie des probabilités
-- Statistiques descriptives
-- Statistiques inférentielles
-- Processus stochastiques

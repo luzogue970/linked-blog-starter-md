@@ -1,4 +1,0 @@
-- Théorie des graphes
-- Combinatoire énumérative
-- Combinatoire algébrique
-- Théorie des codes et cryptographie

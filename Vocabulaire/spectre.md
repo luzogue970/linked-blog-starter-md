@@ -1,3 +1,0 @@
-- Un spectre fait référence à une **échelle graduelle** ou à une **gamme** d'éléments, souvent continus, qui varient entre deux extrêmes. On l'utilise dans plusieurs disciplines pour décrire des phénomènes avec des variations possibles.
-    - Par exemple, en **physique**, le spectre électromagnétique montre toutes les longueurs d'onde de la lumière, des ondes radio aux rayons gamma.
-    - En **psychologie** ou en **sociologie**, un spectre peut désigner la variation d'opinions, de comportements ou de caractéristiques humaines (comme le spectre de l'autisme).
