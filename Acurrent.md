@@ -1,4 +1,0 @@
----
-type:
-  - main-page
----
