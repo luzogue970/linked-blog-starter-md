@@ -29,11 +29,11 @@ Améliorer ses habitudes :: 4/1/5/4/4
 - Fct : +/ - 1%/J ⇒ 365 = 37 X+ / X- ⇒ ==HAB = intérêts composées du dev perso. :: 4==
 - Impact réel des Hab. : Plateau de potentiel lattent ⇒ Métaphore du glaçon / cancer ⇒ Vallée de la déception. :: 4
 
-![[image.png]]
+![[image 2.png|300]]
 
 ### Différence entre Objectifs / Moyens / identité :: 3
 
-![[image 1.png]]
+![[ah cible.png|200]]
 
 - Mindset objectifs : Cf. [[Atomic habits]] :: 4
 - Mindset moyens : _l’Homme qui aime marcher ira toujours plus loin que celui qui aime la destination._ _:: 1_
@@ -68,7 +68,7 @@ Améliorer ses habitudes :: 4/1/5/4/4
 - plan spécifique : quand / où ==Je vais [====COMPORTEMENT====] à [====MOMENT====], dans [====LIEU====]== ⇒ plus de chance d’effectuer l’action
 - superposition d’habitude : ==Après [====HABITUDE ACTUELLE====], je vais [====NOUVELLE HABITUDE====].==
 
-![[image 4.png]]
+![[image 4.png|300]]
 
 ### Envie :: 4/4/4/4/2
 
@@ -93,14 +93,14 @@ Améliorer ses habitudes :: 4/1/5/4/4
     - ==⇒ établir une habitude puis l’améliorer ⇒== Accomplissez l’action la plus infime qui confirme le type de personne que vous souhaitez devenir.
     - créer un environnement ou faire ce qui est bien est facile. = - d’éléments perturbateurs
 
-![[image 5.png]]
+![[image 5.png|300]]
 
-![[image 6.png]]
+![[image 6.png|300]]
 
 - + simple de continuer que commencer à faire quelque chose de différent ⇒ ==Bonne journée = décisions saines et productives à des moments décisifs== ⇒ Cohérence.
     - ==Choix ponctuelles qui automatisent les habitudes futurs sont essentiels ⇒ Investissement auto…==
 
-![[image 7.png]]
+![[image 7.png|300]]
 
 ### récompense :: 4/5/4/5/2
 
@@ -113,7 +113,7 @@ Améliorer ses habitudes :: 4/1/5/4/4
         - attention [[Loi de GoodHeart]]
     - sanction immédiate : retrait privilège / tâche supplémentaire / engagement
 
-![[image 8.png]]
+![[image 8.png|300]]
 
 - habitudes ⇒ routines ⇒ - d’intérêts / - satisfaction ⇒ ennui / erreurs
     - maîtrise = Habitudes ==+ exercices volontaire== //
@@ -123,7 +123,7 @@ Améliorer ses habitudes :: 4/1/5/4/4
 
   
 
-![[fba86233-12ce-49de-9df0-11689d999d80.png]]
+![[fba86233-12ce-49de-9df0-11689d999d80.png|300]]
 
 - ==facilité > Motivation > difficulté==
     - ⇒ [[loi de Yerkes-Dodson -- 3-3-3-2]]

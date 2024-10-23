@@ -1,6 +1,6 @@
-![[Untitled.pdf]]
+![[psycho l1 s1.pdf]]df]]
 
-![[Untitled 1.pdf]]
+![[psycho l1 s2.pdf]]]]
 
 ![[Untitled 2.pdf]]
 
