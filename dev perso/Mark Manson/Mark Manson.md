@@ -6,21 +6,7 @@ type:
 ---
   
 
-Relation avec les autres
 
-Amour
-
-Devenir plus heureux
-
-S’améliorer
-
-Axiome
-
-Mensonges
-
-Conseils
-
-Vérités importantes
 
 # Relation avec les autres
 
