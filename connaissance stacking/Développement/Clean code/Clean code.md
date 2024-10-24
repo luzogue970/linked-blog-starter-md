@@ -1,5 +1,4 @@
-> [!important]  
-> Conseil de Notion : Utilisez cette page pour garder une trace de vos notes et des passages intéressants. Vous pouvez également faire référence à d’autres pages Notion en tapant la commande [[. Pour en savoir plus, cliquez ici.  
+
 
 ![[41EYLUDaF8L.jpg]]
 
