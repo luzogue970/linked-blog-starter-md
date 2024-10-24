@@ -1,10 +1,9 @@
-Quand arrivent-ils ?
+>[!SUMMARY] Table of Contents
 
-Comment arrivent-ils ?
-
-Pourquoi arrivent-ils ?
-
-Comment les éviter ?
+>        - [[Point de côté#Quand arrivent-ils ?|Quand arrivent-ils ?]]
+>        - [[Point de côté#Comment arrivent-ils ?|Comment arrivent-ils ?]]
+>        - [[Point de côté#Pourquoi arrivent-ils ?|Pourquoi arrivent-ils ?]]
+>        - [[Point de côté#Comment les éviter ?|Comment les éviter ?]]
 
 [https://chatgpt.com/c/66dbf10d-7c0c-8001-b8ec-3ff8126840f6](https://chatgpt.com/c/66dbf10d-7c0c-8001-b8ec-3ff8126840f6)
 

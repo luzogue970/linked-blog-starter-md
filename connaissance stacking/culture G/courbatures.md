@@ -1,38 +1,24 @@
-Quand arrivent-elles ?
 
-Comment arrivent-elles ?
+>[!SUMMARY] Table of Contents
 
-Pourquoi arrivent-elles ?
-
-Facteurs influençant l'apparition des courbatures :
-
-Comment les éviter ou les atténuer ?
-
-Comment les traiter ?
-
-Infos supplémentaires :
-
-Objectif prise de masse
-
-Processus de guérison après l’entraînement
-
-Optimiser la guérison pour la prise de masse
-
-1. Nutrition adaptée à la récupération et à la prise de masse
-
-2. Hydratation
-
-3. Sommeil et prise de masse
-
-4. Récupération active et prise de masse
-
-5. Optimisation de la charge d'entraînement
-
-6. Suppléments et accélérateurs de récupération
-
-7. Gestion du stress
-
-Conclusion
+>        - [[courbatures#Quand arrivent-elles ?|Quand arrivent-elles ?]]
+>        - [[courbatures#Comment arrivent-elles ?|Comment arrivent-elles ?]]
+>        - [[courbatures#Pourquoi arrivent-elles ?|Pourquoi arrivent-elles ?]]
+>        - [[courbatures#Facteurs influençant l'apparition des courbatures :|Facteurs influençant l'apparition des courbatures :]]
+>        - [[courbatures#Comment les éviter ou les atténuer ?|Comment les éviter ou les atténuer ?]]
+>        - [[courbatures#Comment les traiter ?|Comment les traiter ?]]
+>        - [[courbatures#Infos supplémentaires :|Infos supplémentaires :]]
+>- [[courbatures#Objectif prise de masse|Objectif prise de masse]]
+>        - [[courbatures#Processus de guérison après l’entraînement|Processus de guérison après l’entraînement]]
+>        - [[courbatures#Optimiser la guérison pour la prise de masse|Optimiser la guérison pour la prise de masse]]
+>        - [[courbatures#1. **Nutrition adaptée à la récupération et à la prise de masse**|1. **Nutrition adaptée à la récupération et à la prise de masse**]]
+>        - [[courbatures#2. **Hydratation**|2. **Hydratation**]]
+>        - [[courbatures#3. **Sommeil et prise de masse**|3. **Sommeil et prise de masse**]]
+>        - [[courbatures#4. **Récupération active et prise de masse**|4. **Récupération active et prise de masse**]]
+>        - [[courbatures#5. **Optimisation de la charge d'entraînement**|5. **Optimisation de la charge d'entraînement**]]
+>        - [[courbatures#6. **Suppléments et accélérateurs de récupération**|6. **Suppléments et accélérateurs de récupération**]]
+>        - [[courbatures#7. **Gestion du stress**|7. **Gestion du stress**]]
+>        - [[courbatures#Conclusion|Conclusion]]
 
 [https://chatgpt.com/c/66dbf10d-7c0c-8001-b8ec-3ff8126840f6](https://chatgpt.com/c/66dbf10d-7c0c-8001-b8ec-3ff8126840f6)
 
