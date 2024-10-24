@@ -1,3 +1,16 @@
+
+>[!SUMMARY] Table of Contents
+
+>        - [[résumé GPT#1. **Embrasser la réalité et la vérité**|1. **Embrasser la réalité et la vérité**]]
+>        - [[résumé GPT#2. **Radicalement ouvert d’esprit et transparent**|2. **Radicalement ouvert d’esprit et transparent**]]
+>        - [[résumé GPT#3. **L’apprentissage tiré de la nature**|3. **L’apprentissage tiré de la nature**]]
+>        - [[résumé GPT#4. **Douleur + réflexion = progrès**|4. **Douleur + réflexion = progrès**]]
+>        - [[résumé GPT#5. **Prendre des décisions sur plusieurs niveaux**|5. **Prendre des décisions sur plusieurs niveaux**]]
+>        - [[résumé GPT#6. **Responsabilité et observation objective**|6. **Responsabilité et observation objective**]]
+>        - [[résumé GPT#7. **Processus en 5 étapes pour réussir**|7. **Processus en 5 étapes pour réussir**]]
+>        - [[résumé GPT#8. **Les obstacles et les schémas mentaux**|8. **Les obstacles et les schémas mentaux**]]
+>        - [[résumé GPT#9. **Prendre des décisions efficaces**|9. **Prendre des décisions efficaces**]]
+>        - [[résumé GPT#10. **Simplifier et utiliser des principes**|10. **Simplifier et utiliser des principes**]]
 ### 1. **Embrasser la réalité et la vérité**
 
 - La vie est un jeu, où chaque problème est une énigme qui, une fois résolue, procure une leçon. Cette leçon aide à résoudre des problèmes similaires à l'avenir.
