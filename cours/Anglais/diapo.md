@@ -2,7 +2,7 @@
 
 ### **3.1 Initiatives to Combat Disinformation**
 
-The rise of AI in generating disinformation has sparked efforts to counter these threats. One key initiative is the d==evelopment of== ==**AI-driven fact-checking tools**====.== These tools automatically detect and flag false information by cross-referencing multiple sources and utilizing machine learning algorithms to assess content credibility. There are several **projects and startups** that are innovating in this space, aiming to ==enhance the speed and accuracy of fact-checking processes==.
+The rise of AI in generating disinformation has sparked efforts to counter these threats. One key initiative is the d==evelopment of== ==**AI-driven fact-checking tools**====.== These tools automatically detect and flag false information by cross-referencing multiple sources and utilizing machine learning algorithms to assess content credibility. There are several **projects and startups** that are innovating in this space, aiming to ==enhance the speed and accuracy of fact-checking processes==. for exemple : Logically UK-based entreprise
 
 ### **3.2 Role of Governments and Corporations**
 
