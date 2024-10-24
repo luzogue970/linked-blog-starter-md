@@ -1,6 +1,5 @@
 ---
 type:
-  - addiction
   - dev-perso
   - livre
 ---
