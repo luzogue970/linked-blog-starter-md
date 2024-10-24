@@ -2,21 +2,12 @@
 type:
   - appris
 ---
-**Table des matières**
-
-Lincoln
-
-Cicéron
-
-Upton Sinclair
-
   
 
 ### Lincoln
 
 > Ne juge point si tu ne veux point être jugé.
 
-  
 
 ### Cicéron
 
@@ -25,7 +16,6 @@ Upton Sinclair
 > y a un art de savoir et un art d'enseigner
 
 Einstein : un don mal travaillé n’est qu’une mauvaise habitude
-
   
 
 ### Upton Sinclair

@@ -1,8 +1,4 @@
-Définition
 
-Exemple pratique
-
-Applications
 
 # Définition
 

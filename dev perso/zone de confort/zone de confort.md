@@ -2,22 +2,6 @@
 type:
   - dev-perso
 ---
-Définition
-
-Caractéristiques de la zone de confort :
-
-Avantages de rester dans la zone de confort :
-
-Inconvénients de rester dans la zone de confort :
-
-Sortir de la zone de confort :
-
-La "zone de panique" et la "zone de croissance" :
-
-Comment élargir sa zone de confort ?
-
-Sources
-
 ### Définition
 
 La **zone de confort**

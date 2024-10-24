@@ -2,40 +2,6 @@
 type:
   - dev-perso
 ---
-Intro
-
-1 Chacun de nous peut accomplir des miracles
-
-Une visite dans la vallée des miracles de la vie
-
-La loi d’amélioration par le changement : Le premier miracle de la vie
-
-Nos guides invisibles : Le deuxième miracle de la vie
-
-Le langage universel de la douleur : Le troisième miracle de la vie
-
-La croissance par la lutte : Le quatrième miracle de la vie
-
-La maitrise de la pauvreté : cinquième miracle de la vie
-
-L’échec peut être un bienfait : Le sixième miracle de la vie
-
-Le chagrin, sentier de l’âme : Le septième miracle de la vie
-
-Le but irrévocable de la nature : huitième miracle de la vie
-
-Le système de comptabilité de la nature : le neuvième miracle
-
-Le temps, remède universel de la nature : dixième miracle de la vie
-
-La vie à l’américaine donne la liberté : Le onzième miracle de la vie
-
-La gesse d’accepter la mort : Le douzième miracle de la vie
-
-Le pouvoir illimité de l’esprit : Le treizième miracle de la vie
-
-CCL
-
 # Intro
 
 Le principal sujet de ce livre concerne le bénéfice équivalent.

@@ -6,38 +6,6 @@ code couleur :
 
 ==maitrisé ou osef==
 
-01. Time boxing
-
-02. Prioriser
-
-03. Dire non
-
-04. Bouger
-
-05. Control your devices
-
-06. Take short breaks
-
-07. To-do lists
-
-08. Eat well
-
-09. 2-minute rule
-
-10. Control social media
-
-11. Choose when to check email
-
-12. Organise your workspace
-
-13. Start earlier
-
-14. Breathe
-
-20. single-tasking
-
-21. sound & music
-
 # ==01. Time boxing==
 
 - = emploi du temps

@@ -4,24 +4,6 @@ type:
   - appris
   - dev-perso
 ---
-Réalisation Objectif
-
-1. Décomposer l'objectif en sous-objectifs
-
-2. Gestion des risques
-
-3. Établir un plan d'action détaillé
-
-4. Fixer des échéances
-
-5. Ressources et outils
-
-6. Communication (si nécessaire)
-
-7. Suivi et évaluation
-
-8. Révision et ajustement
-
 La méthode SMART est un cadre de définition d'objectifs qui permet
 
 - d'améliorer la clarté

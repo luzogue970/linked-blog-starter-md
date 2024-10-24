@@ -1,36 +1,5 @@
 Ce livre donne des clefs pour atteindre la richesse et le bonheur. La deuxième partie de celui-ci incluant la richesse dans le bonheur, la richesse sera traité comme une sous partie
 
-1 Le Bonheur
-
-Apprendre à être heureux
-
-Le bonheur est un choix
-
-Trouver le bonheur dans l’acceptation
-
-2 Santé
-
-Santé physique
-
-Santé mentale
-
-Santé spirituelle
-
-Prise de décision
-
-Bien s’entourer
-
-3 La richesse
-
-Prise de décision appliqué à la richesse
-
-Le discernement
-
-La lucidité
-
-Les leviers
-
-les types de chances
 
 [[Résumé GPT naval Ravikant]]
 

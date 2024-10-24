@@ -4,23 +4,7 @@ type:
 ---
 [https://frise-chronologique.inrap.fr/](https://frise-chronologique.inrap.fr/)
 
-Paléolithique
 
-Paléolithique inférieur
-
-Paléolithique moyen
-
-Paléolithique supérieur
-
-Mésolithique
-
-Néolithique
-
-Âge du Bonze
-
-Âge de fer
-
-![[/image 10.png|image 10.png]]
 
 # Paléolithique
 

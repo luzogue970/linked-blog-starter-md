@@ -2,17 +2,6 @@
 type:
   - santé
 ---
-Bienfaits pour la Santé
-
-Effets sur le Sommeil
-
-Effets sur les Performances Sportives et la Prise de Masse
-
-Solution Recommandée : Thé Vert Décaféiné
-
-Conclusion
-
-Source :
 
 ### Bienfaits pour la Santé
 

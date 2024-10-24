@@ -1,12 +1,3 @@
-Composantes de la métacognition
-
-Recherche scientifique sur la métacognition
-
-Études sur la métacognition et l'apprentissage
-
-Applications pratiques de la métacognition
-
-Conclusion
 
 La métacognition est un ==concept clé en psychologie cognitive==, qui fait référence à la ==capacité d'une personne à réfléchir sur ses propres processus de pensée.== Elle englobe les connaissances et les régulations cognitives que nous exerçons sur nos propres processus mentaux. Le terme "métacognition" provient du préfixe =="méta-", qui signifie "au-delà" ou "au-dessus"==, et =="cognition", qui fait référence aux processus de pensée et de connaissance.== Ainsi, la métacognition se traduit littéralement par =="au-delà de la cognition",== impliquant une ==réflexion sur la pensée elle-même.==
 

@@ -1,13 +1,3 @@
-Avantages cognitifs et neurologiques
-
-Concentration et focus
-
-Effets émotionnels et thérapeutiques
-
-Préférences individuelles et spécificité des tâches
-
-CLL
-
 L'impact de la musique sur le cerveau et la concentration est un sujet complexe et bien étudié, révélant divers effets cognitifs, émotionnels et neurologiques.
 
 # **Avantages cognitifs et neurologiques**

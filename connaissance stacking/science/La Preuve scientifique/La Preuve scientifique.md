@@ -1,45 +1,7 @@
-> [!important]  
-> Conseil de Notion : Utilisez cette page pour garder une trace de vos notes et des passages intéressants. Vous pouvez également faire référence à d’autres pages Notion en tapant la commande [[. Pour en savoir plus, cliquez ici.  
+ 
 
 [![](https://www.dur-a-avaler.com/wp-content/uploads/2020/05/evaluation-preuve-scientifique-etude-clinique-randomise.jpg)](https://www.dur-a-avaler.com/wp-content/uploads/2020/05/evaluation-preuve-scientifique-etude-clinique-randomise.jpg)
 
-  
-
-**Table des matières**
-
-Loi de Brandolini :
-
-principe de Sagan (Sagan standard)
-
-L’effet tiroir
-
-Le niveau de preuve
-
-L’évidence scientifique
-
-Hiérarchie des preuves
-
-Avis d'expert
-
-rapport de cas individuel / étude de cas :
-
-Séries cas :
-
-L'étude cas témoin
-
-Etude de Cohorte:
-
-Essais non randomisé contrôlé:
-
-Essais randomisé contrôlée :
-
-Revues systématique
-
-méta analyse
-
-Voir aussi :
-
-  
 
 Note ayant pour but premier de déterminer la fiabilité et la force d'une preuve
 

@@ -8,48 +8,6 @@ type:
 
 > moi : On ne juge pas les gens pour où ils sont mais pour où ils vont
 
-  
-
-Résumé
-
-Première partie
-
-La richesse
-
-Introduction
-
-Les leviers
-
-retraite
-
-les types de chances
-
-bien s’entourer
-
-Forger son discernement
-
-Le discernement
-
-La lucidité
-
-Prise de décision
-
-Le Bonheur
-
-Trois goal dans l’ordre
-
-Apprenez à être heureux
-
-Le bonheur est un choix
-
-Trouver le bonheur dans l’acceptation
-
-Venez vous en aide
-
-La philosophie
-
-Autre
-
 # Résumé
 
 [[Résumé L’almanach de Naval Ravikant]]

@@ -2,19 +2,7 @@
 type:
   - dev-perso
 ---
-Eviter la procrastination :
 
-Habitudes a prendre
-
-Ne pas perdre le fil / sortir d’un mauvais mindset
-
-Face à la difficulté
-
-retraite
-
-à mettre en place
-
-Moi
 
 [[100 Tips de productivités]]
 

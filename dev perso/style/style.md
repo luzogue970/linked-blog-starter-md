@@ -3,7 +3,6 @@ type:
   - dev-perso
 ---
   
-
 **Les 9 principes afin de trouver son style pour un homme :**
 
 1. Etre **proactif** et **patient** pour trouver son style.

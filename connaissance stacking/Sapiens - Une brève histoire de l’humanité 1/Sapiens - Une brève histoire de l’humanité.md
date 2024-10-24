@@ -8,57 +8,6 @@ type:
 
 [![](https://m.media-amazon.com/images/I/41HtOsNN4WL.jpg)](https://m.media-amazon.com/images/I/41HtOsNN4WL.jpg)
 
-**Table des matières**
-
-Première partie :La révolution cognitive
-
-Chapitre 1 : Un animal insignifiant.
-
-Chapitre 2 : L'arbre de la connaissance
-
-Chapitre 3 : Une journée dans la vie d'Adan et Eve
-
-Chapitre 4 : Le déluge
-
-deuxième partie :La révolution agricole
-
-Chapitre 5 : La plus grande escroquerie de l'histoire
-
-Chapitre 6 : Bâtir des pyramides
-
-Chapitre 7 : Surcharge mémorielle
-
-Chapitre 8: Il n'y a pas de justice dans l'histoire
-
-Troisième partie : L'unification de l'humanité
-
-Chapitre 9 : La flèche de l'histoire
-
-Chapitre 10 : L'odeur de l'argent
-
-Chapitre 11 : Visions impériales
-
-Chapitre 12 : La loi de la religion
-
-Chapitre 13 : Le secret de la réussite
-
-Quatrième partie : La révolution scientifique
-
-Chapitre 14 : La découverte de l'ignorance
-
-Chapitre 15 : Le mariage de la science et de l'empire
-
-Chapitre 16 : Le crédo capitaliste
-
-Chapitre 17 : Les rouages de l'industrie
-
-Chapitre 18 : Une révolution permanente
-
-Chapitre 19 : Et ils vécurent heureux
-
-Chapitre 20 : La fin d'homo sapiens
-
-Chronologie
 
 Sapiens est un livre de yuval noah hararri qui s'efforce de résumer l'histoire d'homo-sapiens (même si le terme histoire n'est pas le plsu approprié)
 

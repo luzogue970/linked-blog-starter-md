@@ -4,14 +4,6 @@ type:
   - dev-perso
   - main-page
 ---
-Objectif
-
-poser sur du papiers
-
-dayli
-
-weekly
-
 # Objectif
 
 - augmenter mon efficience = ressource investie pour résultat sorti

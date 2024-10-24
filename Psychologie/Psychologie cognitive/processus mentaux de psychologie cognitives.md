@@ -1,14 +1,3 @@
-1. Perception
-
-2. Mémoire
-
-3. Attention
-
-4. Langage
-
-5. Résolution de problèmes et prise de décision
-
-6. Apprentissage
 
 Conclusion
 
